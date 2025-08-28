@@ -1,0 +1,9 @@
+numpy
+matplotlib
+opencv-python
+scikit-learn
+tensorflow
+nbformat
+nbconvert
+kagglehub
+jupyter
